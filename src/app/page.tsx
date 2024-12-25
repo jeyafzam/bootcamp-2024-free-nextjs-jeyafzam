@@ -28,7 +28,6 @@ export default async function Home(): Promise<JSX.Element> {
         رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات
         پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
       </p>
-
       <ul>
         {posts.map((post: Post) => (
           <li key={post.id}>{post.title}</li>
