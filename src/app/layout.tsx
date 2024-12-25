@@ -7,7 +7,6 @@ const vazirmatn = Vazirmatn({
   display: "swap",
 });
 
-
 export const metadata: Metadata = {
   title: "Visinit",
   description: "پلتفرم جامع جستجوی دکتر و رزرو نوبت آنلاین ",
