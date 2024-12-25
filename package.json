@@ -21,6 +21,8 @@
     "eslint-config-next": "14.2.20",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
+    "postcss": "^8.4.49",
+    "postcss-nesting": "^13.0.1",
     "prettier": "^3.4.2",
     "typescript": "^5"
   }
